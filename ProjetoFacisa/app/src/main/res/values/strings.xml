@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Projeto Facisa</string>
+    <string name="title_activity_main">Projeto Facisa</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Lista das Favoritas</string>
+    <string name="title_activity_noticias">Projeto Facisa</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="section_format"> %1$d</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main_noticia">Projeto Facisa</string>
+    <string name="title_home">Notícias</string>
+    <string name="title_dashboard">Favoritas</string>
+    <string name="title_notifications">Notificações</string>
+    <string name="title_activity_noticia">NoticiaActivity</string>
+</resources>
